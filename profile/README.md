@@ -8,6 +8,8 @@
 |  |  |  |  |  |
 |**Implicit Neural Representation를 이용한 이상탐지**|신은호|국내학술대회|한국통신학회 동계학술대회|2024|
 
+</br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1D5573&height=120&section=footer"/>
 </p>
