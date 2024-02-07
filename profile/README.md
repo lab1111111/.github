@@ -3,10 +3,10 @@
 </p>
 
 ## Student Publications
-|제목|발표자|종류|발표지|출판년도|
+|제목|발표자|종류|발표지|연도|
 |--|--|--|--|:--:|
 |  |  |  |  |  |
-|**Implicit Neural Representation를 이용한 이상탐지**|신은호|국내학술대회|한국통신학회 동계학술대회|2024|
+|**Implicit Neural Representation를 이용한 이상탐지**|신은호,전윤호|국내학술대회|한국통신학회 동계학술대회|2024|
 
 </br>
 
